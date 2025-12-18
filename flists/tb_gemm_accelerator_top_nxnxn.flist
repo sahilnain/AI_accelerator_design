@@ -1,0 +1,10 @@
+rtl/gemm/gemm_accelerator_top_nxnxn.sv
+tb/tb_gemm_accelerator_top_nxnxn.sv
+
+rtl/gemm/gemm_accelerator_top_nxn.sv
+rtl/gemm/general_mac_pe.sv
+rtl/common/ceiling_counter.sv
+rtl/common/ripple_M_N_counter.sv
+rtl/gemm/gemm_controller.sv
+rtl/gemm/gemm_sub_controller.sv
+rtl/gemm/gemm_accelerator_top.sv

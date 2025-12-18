@@ -1,0 +1,12 @@
+/work
+/questasim.do
+/transcript
+/vsim.wlf
+tb_mac_pe.vcd
+bin/tb_one_mac_gemm
+
+covhtmlreport/
+
+*.vcd
+
+wlft*

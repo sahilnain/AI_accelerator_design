@@ -1,0 +1,10 @@
+rtl/gemm/gemm_accelerator_top_nxn.sv
+tb/tb_gemm_accelerator_top_nxn.sv
+
+rtl/gemm/general_mac_pe.sv
+rtl/common/ceiling_counter.sv
+rtl/common/register_chain.sv
+rtl/common/multi_multi_port_memory.sv
+rtl/gemm/gemm_controller.sv
+rtl/gemm/gemm_sub_controller.sv
+rtl/gemm/gemm_systolic_array_top.sv

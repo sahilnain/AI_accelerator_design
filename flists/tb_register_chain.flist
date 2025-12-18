@@ -1,0 +1,2 @@
+rtl/common/register_chain.sv
+tb/tb_register_chain.sv
